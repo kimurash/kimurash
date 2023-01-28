@@ -52,3 +52,16 @@ Here are some ideas to get you started:
   <img alt="Top Langs" height="155px" style="margin: 5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kimurash&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="155px" style="margin: 5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimurash&theme=tokyonight&show_icons=ture" />
 </p>
+
+## Activities:
+### 2021
+- 学生食堂ORTUSの献立を組み立てるAndroidアプリの開発
+- コンピュータシステムの構築 (Nand2Tetris)
+- 競技プログラミングに入門
+
+### 2022
+- プロジェクト実習2の教育用CPUに対応したアセンブラの開発
+- 計算理論の勉強
+- Discord Bot開発
+
+### 2023
