@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 ### 2022
 - プロジェクト実習2の教育用CPUに対応したアセンブラの開発
 - 計算理論の勉強
-- 提出期限が迫っている課題を通知するDiscord Bot開発
+- [提出期限が迫っている課題を通知するDiscord Bot開発](https://kitcc.esa.io/posts/15)
 - ルータ監視ハードウェア開発
 
 ### 2023
