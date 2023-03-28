@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 ## Activities:
 ### 2021
 - 学生食堂ORTUSの献立を組み立てるAndroidアプリの開発
-- コンピュータシステムの構築 (Nand2Tetris)
+- コンピュータシステムの構築(Nand2Tetris)
 - 競技プログラミングに入門
 
 ### 2022
@@ -84,3 +84,7 @@ Here are some ideas to get you started:
 - [ルータを監視するハードウェアの開発](https://www.kitcc.org/share/lime/lime62.pdf)
 
 ### 2023
+- [京都工芸繊維大学 新歓サイト](https://irodori-newcomer2023.pages.dev/)のバックエンドで動いている診断アルゴリズムの実装
+- [スロット(マイジャグラー5)の設定推定アプリの開発](https://my-juggler-estimator.vercel.app/)
+- KITCC専用の書籍管理アプリの開発
+
