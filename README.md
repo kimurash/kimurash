@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 - 競技プログラミングに入門
 
 ### 2022
-- [プロジェクト実習2](https://www.syllabus.kit.ac.jp/?c=detail&pk=1121&schedule_code=12215302&sk=00&dc=01)の教育用CPUに対応したアセンブラの開発
+- [プロジェクト実習2](https://www.syllabus.kit.ac.jp/?c=detail&pk=1072&schedule_code=12215302&sk=00&dc=01)の教育用CPUに対応したアセンブラの開発
 - 計算理論の勉強
 - [提出期限が迫っている課題を通知するDiscord Botの開発](https://esa-pages.io/p/sharing/19485/posts/15/e201cf1359bd9cbc3561.html)
 - [ルータを監視するハードウェアの開発](https://www.kitcc.org/share/lime/lime62.pdf)
