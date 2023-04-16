@@ -86,5 +86,5 @@ Here are some ideas to get you started:
 ### 2023
 - [京都工芸繊維大学 新歓サイト](https://irodori-newcomer2023.pages.dev/)のバックエンドで動いている診断アルゴリズムの実装
 - [スロット(マイジャグラー5)の設定推定アプリ](https://my-juggler-estimator.vercel.app/)の開発
-- [KITCC専用の書籍管理アプリ](http://www.kitcc.org:8080/)の開発
+- [KITCC専用の書籍管理アプリ](https://www.kitcc.org:8080/)の開発
 
