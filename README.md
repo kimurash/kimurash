@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning **information science**
+🌱 I’m currently learning **computer science**
 @[Kyoto Instutute of Technology](https://www.is.kit.ac.jp/)
 
 ## Languages and Tools:
