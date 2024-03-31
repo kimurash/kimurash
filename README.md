@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,ts,perl,py,latex)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,jest,vercel,flask,sqlite,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,jest,vercel,flask,fastapi,sqlite,nginx,sklearn)](https://skillicons.dev)
 
 ## Status:
 ![contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimurash&theme=tokyonight)
