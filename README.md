@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ## Languages and Tools:
 [![tools](https://skillicons.dev/icons?i=linux,ubuntu,vim,vscode,git,github,githubactions,docker,notion)](https://skillicons.dev)
 
-[![languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,perl,py,latex)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,perl,ruby,py,latex)](https://skillicons.dev)
 
-[![frameworks](https://skillicons.dev/icons?i=react,nodejs,jest,vercel,flask,fastapi,nginx,sqlite,sklearn)](https://skillicons.dev)
+[![frameworks](https://skillicons.dev/icons?i=react,nodejs,jest,vercel,rails,flask,fastapi,nginx,sqlite,sklearn)](https://skillicons.dev)
 
 ## Status:
 ![contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimurash&theme=tokyonight)
