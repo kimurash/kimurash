@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 - 🎓 I'm researching **Optimization** at [Computational Intelligence and Systems Labolatory](https://vega.is.kit.ac.jp/)
 
 ## Languages and Tools:
-[![tools](https://skillicons.dev/icons?i=linux,ubuntu,vim,vscode,git,github,githubactions,docker,notion)](https://skillicons.dev)
 
-[![languages](https://skillicons.dev/icons?i=c,cpp,java,js,ts,perl,ruby,py,latex)](https://skillicons.dev)
-
-[![frameworks](https://skillicons.dev/icons?i=react,nodejs,jest,vercel,rails,flask,fastapi,nginx,sqlite,sklearn)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=c,cpp,docker,fastapi,flask,git,github,githubactions,java,jest,js,latex,linux,nginx,nodejs,notion,perl,py,rails,react,ruby,sklearn,sqlite,ts,ubuntu,vercel,vim,vscode&perline=12)](https://skillicons.dev)
 
 ## Status:
+
 ![contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimurash&theme=tokyonight)
 
 <p align="left"> 
