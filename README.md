@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[![tools](https://skillicons.dev/icons?i=anaconda,bootstrap,c,cpp,docker,fastapi,flask,git,github,githubactions,java,jest,js,latex,linux,nginx,nodejs,notion,perl,postman,py,rails,raspberrypi,react,ruby,sklearn,selenium,sqlite,ts,ubuntu,vercel,vim,vscode&perline=12)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=anaconda,bootstrap,c,cpp,docker,fastapi,flask,git,github,githubactions,java,jest,js,latex,linux,nginx,nodejs,notion,postman,py,rails,raspberrypi,react,ruby,sklearn,selenium,sqlite,ts,ubuntu,vercel,vim,vscode&perline=12)](https://skillicons.dev)
 
 ## Status:
 
