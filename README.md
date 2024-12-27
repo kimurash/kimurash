@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m learning **computer science** @[Kyoto Instutute of Technology](https://www.is.kit.ac.jp/)
-- 🎓 I'm researching **Optimization** at [Computational Intelligence and Systems Labolatory](https://vega.is.kit.ac.jp/)
+- 🎓 I'm researching **Optimization** @[Computational Intelligence and Systems Labolatory](https://vega.is.kit.ac.jp/)
 
 ## Languages and Tools:
 
