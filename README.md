@@ -10,11 +10,11 @@
 ## Status:
 
 ![contribution](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kimurash&theme=tokyonight)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimurash&theme=tokyonight)
+![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimurash&theme=tokyonight)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kimurash&theme=tokyonight)
+![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kimurash&theme=tokyonight&utcOffset=9)
 
-<p align="left"> 
-  <img alt="Top Langs" height="155px" style="margin: 5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kimurash&layout=compact&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="155px" style="margin: 5px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kimurash&theme=tokyonight&show_icons=ture" />
-</p>
+## Trophy
 
-![top_lang_by_repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kimurash&theme=tokyonight)
-![top_lang_by_commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kimurash&theme=tokyonight)
+![trophy](https://github-profile-trophy.vercel.app/?username=kimurash&theme=onedark&column=7)
