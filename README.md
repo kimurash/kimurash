@@ -5,7 +5,7 @@
 
 ## Languages and Tools:
 
-[![tools](https://skillicons.dev/icons?i=astro,aws,bootstrap,c,cpp,cloudflare,css,docker,fastapi,flask,gcp,git,github,githubactions,html,java,jest,js,latex,linux,nextjs,nginx,nodejs,notion,postgres,postman,prisma,py,rails,raspberrypi,react,redis,remix,supabase,sklearn,sqlite,tailwind,ts,ubuntu,vercel,vim,vitest,vscode,workers&perline=12)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=astro,aws,bootstrap,c,cpp,cloudflare,css,docker,fastapi,flask,gcp,git,github,githubactions,html,java,jest,js,kubernetes,latex,linux,nextjs,nginx,nodejs,notion,postgres,postman,py,rails,raspberrypi,react,redis,remix,supabase,sklearn,sqlite,tailwind,terraform,ts,ubuntu,vercel,vim,vitest,vscode,workers&perline=12)](https://skillicons.dev)
 
 ## Status:
 
