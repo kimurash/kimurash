@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
-- 🌱 I’m learning **computer science** @[Kyoto Instutute of Technology](https://www.is.kit.ac.jp/)
-- 🎓 I'm researching **Optimization** @[Computational Intelligence and Systems Labolatory](https://vega.is.kit.ac.jp/)
+- 🌱 I was learning **computer science** @[Kyoto Instutute of Technology](https://www.is.kit.ac.jp/)
+- 🎓 I was researching **Optimization** @[Computational Intelligence and Systems Labolatory](https://vega.is.kit.ac.jp/)
 
 ## Languages and Tools:
 
